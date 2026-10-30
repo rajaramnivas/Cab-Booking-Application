@@ -1,0 +1,11 @@
+<h2>My rides</h2>
+
+{% for i in rides %}
+
+<p>
+{{i.id}} {{i.pickup_location}} {{i.drop_location}} {{i.fare}}
+</p>
+
+
+
+{% endfor  %}

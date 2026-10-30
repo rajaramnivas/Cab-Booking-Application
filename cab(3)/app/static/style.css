@@ -1,0 +1,14 @@
+.abc
+{
+
+display: flex;
+background-color: aqua;
+justify-content: space-between;
+text-decoration: none;
+
+}
+.abc:hover{
+
+    color:white;
+
+}
